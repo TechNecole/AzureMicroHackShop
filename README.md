@@ -1,6 +1,6 @@
 #Azure Micro-Hackshop
 
-## Free Azure
+## Get Azure
 - [Step One - Setup an Azure Subscription](https://github.com/tripdubroot/AzureMicroHackShop/tree/master/free_azure)
 
 ## Azure CLI
