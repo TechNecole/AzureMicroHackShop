@@ -40,3 +40,6 @@ In this lab we will deploy a Docker Swarm Cluster to Azure using the single clic
 
 ### Hardcore 
 - [Deploy using Azure CLI](https://github.com/tripdubroot/AzureMicroHackShop/blob/master/docker_swarm/virtual-machines-docker-swarm.md)
+
+## More because you have time...
+[How to Use SSH with Linux and Mac on Azure](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-use-ssh-key/)
